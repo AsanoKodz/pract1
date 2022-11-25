@@ -7,10 +7,13 @@
 
 ###Ход работы:
 1.	Скачать и настроить среду разработки. Для этого нужно докачать библиотеки
+
 ![image](https://user-images.githubusercontent.com/101336794/203960475-ca6eb670-ea2f-4aea-8bc0-271f430f7d90.png)
+
 ![image](https://user-images.githubusercontent.com/101336794/203960514-88eaef0d-a937-4a32-b31b-ad997395ffe6.png)
 
 2.	Выберем макеты
+
 ![image](https://user-images.githubusercontent.com/101336794/203960325-5d032535-f938-4c38-ace9-4fc562f879ac.png)
 
 
